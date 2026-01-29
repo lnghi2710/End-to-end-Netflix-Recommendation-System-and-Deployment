@@ -1,15 +1,18 @@
-flask
+Flask
 gunicorn
+Jinja2
+MarkupSafe
+Werkzeug
 
 numpy>=1.23
 scipy>=1.9
 scikit-learn>=1.2
 pandas>=1.5
 
-nltk
 beautifulsoup4
-jinja2
-markupsafe
-werkzeug
 jsonschema
 tmdbv3api
+lxml
+urllib3
+requests
+pickleshare
